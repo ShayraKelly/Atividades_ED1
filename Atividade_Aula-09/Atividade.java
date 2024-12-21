@@ -3,8 +3,8 @@ import java.util.ArrayDeque;
 
 public class Atividade{
     public static void main(String[] args) {
-        String frase = "UM CIENTISTA DA COMPUTAÇÃO DEVE RESOLVER OS PROBLEMAS LOGICAMENTE";
-        String frasesecreta = "ESARF ATERCES ODALERAHCAB ME AICNEIC AD OAÇATUPMOC FI ONAIOG SUPMAC SOHNIRROM )OAN( HE MU SOD SEROHLEM SOSRUC ED OAÇATUPMOC OD ODATSE ED SAIOG";
+        String frase = "UM CIENTISTA DA COMPUTAÇAO E UM TECNÓLOGO EM SISTEMAS PARA INTERNET DEVEM RESOLVER OS PROBLEMAS LOGICAMENTE";
+        String frasesecreta = " ESARF :ATERCES ODALERAHCAB ME AICNEIC AD OAÇATUPMOC E O OGOLÓNCET ME SAMETSIS ARAP TENRETNI OD FI ONAIOG SUPMAC SOHNIRROM OÃS SO SEROHLEM SOSRUC ED OAÇATUPMOC OD ODATSE ED .SAIOG";
 
         String resultado1 = invertePalavras(frase);
         String resultado2 = invertePalavras(frasesecreta);
