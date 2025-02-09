@@ -2,7 +2,7 @@ public class TorreDeHanoi {
 
     public static void main(String[] args) {
         long numeroDeDiscos;
-        numeroDeDiscos = 40;
+        numeroDeDiscos = 41;
         long starTime = System.currentTimeMillis();
         long totalMovimentos;
         totalMovimentos = torreDeHanoi((int) numeroDeDiscos, 'A', 'C', 'B');
