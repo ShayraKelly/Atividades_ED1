@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Fila_Dinamica{
+public class Pilha_Dinamica{
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         System.out.print("Digite a expressão: ");
